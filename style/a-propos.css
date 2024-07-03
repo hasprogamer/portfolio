@@ -1,0 +1,41 @@
+.carre-contenu {
+  border-right: 1px solid #8e86b5;
+  border-bottom: 1px solid #8e86b5;
+  padding: 50px;
+  margin-bottom: 80px;
+		gap: 10px;
+}
+
+.carre-contenu h2 {
+  margin-top: 30px;
+}
+
+.carre-contenu ul {
+  margin-top: 30px;
+}
+
+.carre-contenu + div {
+  text-align: center;
+}
+
+.a-propos-main {
+  width: 50%;
+  margin: auto;
+}
+table{
+		border-collapse: collapse;
+		color: white;
+		align-content: center;
+		align-items: center;
+		padding: 10px;
+}
+td,
+th{
+		text-align: center;
+		border: 1px solid white;
+		color: white;
+		margin: 10px;
+}
+td{
+		padding: 50px
+}
